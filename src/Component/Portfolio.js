@@ -112,6 +112,7 @@ class Porfolio extends Component {
                                     <div className="icon">
                                         <a href="https://moviestation.herokuapp.com/" target='#' className="view-icon">
                                             <h1>Movie Station</h1>
+                                            
                                             <FontAwesomeIcon icon={faPlus} />
                                         </a>
                                     </div>
