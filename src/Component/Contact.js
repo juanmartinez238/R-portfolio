@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import MyForm from './MyForm';
 
 class Contact extends Component {

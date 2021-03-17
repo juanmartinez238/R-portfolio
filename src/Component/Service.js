@@ -1,11 +1,6 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import serviceImg_1 from '../Assets/Images/1.jpg';
-import serviceImg_2 from '../Assets/Images/2.jpg';
-import serviceImg_3 from '../Assets/Images/3.jpg';
-import serviceImg_4 from '../Assets/Images/4.jpg';
-import serviceImg_5 from '../Assets/Images/5.jpg';
-import serviceImg_6 from '../Assets/Images/6.jpg';
+
 
 import cLanguage from '../Assets/Images/cLanguage.jpg';
 import javascript2 from '../Assets/Images/javascript2.jpg';

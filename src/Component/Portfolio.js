@@ -1,15 +1,11 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faPlus } from '@fortawesome/free-solid-svg-icons';
 import { fab, faFacebook, faFacebookF } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import Gallery_1 from '../Assets/Images/gallery/img-1.jpg';
-import Gallery_2 from '../Assets/Images/gallery/img-2.jpg';
-import Gallery_3 from '../Assets/Images/gallery/img-3.jpg';
-import Gallery_4 from '../Assets/Images/gallery/img-4.jpg';
-import Gallery_5 from '../Assets/Images/gallery/img-5.jpg';
-import Gallery_6 from '../Assets/Images/gallery/img-6.jpg';
+
 
 import moviestation from '../Assets/ProjectImages/projectmoviestation.png';
 import weatherapp from '../Assets/ProjectImages/projectweatherapp.png';
