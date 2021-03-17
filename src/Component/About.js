@@ -24,7 +24,7 @@ class About extends Component {
                         </div>
                         <div className="col-xl-5 col-lg-5">
                             <div className="hx-about-img">
-                                <img src={newestImage}/>
+                                <img src={newestImage} alt=''/>
                             </div>
                         </div>
                     </div>

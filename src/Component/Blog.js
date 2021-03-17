@@ -20,13 +20,13 @@ class Blog extends Component {
                             <div className="blog-grids clearfix">
                                 <div className="grid">
                                     <div className="entry-media">
-                                        <img src={blogImg_1}/>
+                                        <img src={blogImg_1} alt=''/>
                                     </div>
                                     <div className="details">
                                         <h3><a href="#">Everything is easy when you think it easy</a></h3>
                                         <ul className="entry-meta">
                                             <li>
-                                                <img src={blogAuthor}/>
+                                                <img src={blogAuthor} alt=''/>
                                                 By <a href="#">Lily Anne</a>
                                             </li>
                                             <li>Octobor 12,2019</li>
@@ -35,13 +35,13 @@ class Blog extends Component {
                                 </div>
                                 <div className="grid">
                                     <div className="entry-media">
-                                        <img src={blogImg_2}/>
+                                        <img src={blogImg_2} alt=''/>
                                     </div>
                                     <div className="details">
                                         <h3><a href="#">Everything is easy when you think it easy</a></h3>
                                         <ul className="entry-meta">
                                             <li>
-                                                <img src={blogAuthor}/>
+                                                <img src={blogAuthor} alt=''/>
                                                 By <a href="#">Lily Anne</a>
                                             </li>
                                             <li>Octobor 12,2019</li>
@@ -50,13 +50,13 @@ class Blog extends Component {
                                 </div>
                                 <div className="grid">
                                     <div className="entry-media">
-                                        <img src={blogImg_3}/>
+                                        <img src={blogImg_3} alt=''/>
                                     </div>
                                     <div className="details">
                                         <h3><a href="#">Everything is easy when you think it easy</a></h3>
                                         <ul className="entry-meta">
                                             <li>
-                                                <img src={blogAuthor}/>
+                                                <img src={blogAuthor} alt=''/>
                                                 By <a href="#">Lily Anne</a>
                                             </li>
                                             <li>Octobor 12,2019</li>

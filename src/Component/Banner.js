@@ -10,7 +10,7 @@ class Banner extends Component {
                 <div className="hero-slider">
                     <div className="slide">
                         <div className="slider-image">
-                            <img src={slide2}/>
+                            <img src={slide2} alt=''/>
                         </div>
                         <div className="container">
                             <div className="row">

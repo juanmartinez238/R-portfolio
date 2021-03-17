@@ -112,7 +112,7 @@ class Porfolio extends Component {
                                     && this.state.onWebApp ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"
                                     }>
-                                   <img src={moviestation} className="img img-responsive" alt="" />
+                                   <img src={moviestation} className="img img-responsive" alt='' />
                                     <div className="icon">
                                         <a href="https://moviestation.herokuapp.com/" target='#' className="view-icon">
                                             <h1>Movie Station</h1>
@@ -126,7 +126,7 @@ class Porfolio extends Component {
                                     && this.state.onPhotography ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
                                         
-                                    <img src={weatherapp} alt="" className="img img-responsive"/>
+                                    <img src={weatherapp} alt='' className="img img-responsive"/>
                                     <div className="icon">
                                         <a href="https://juans-vue-weather-app.netlify.app/" target='#' className="view-icon">
                                             <h1>Vue-Weather App</h1>
@@ -138,7 +138,7 @@ class Porfolio extends Component {
                                     && this.state.onWebApp ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
                                     
-                                    <img src={gamestation} alt="" className="img img-responsive"/>
+                                    <img src={gamestation} alt='' className="img img-responsive"/>
                                     <div className="icon">
                                         <a href="https://juangamestation.herokuapp.com/" target='#' className="view-icon">
                                             <h1>Game Station</h1>
@@ -149,7 +149,7 @@ class Porfolio extends Component {
                                 <div className={this.state.onPrintDesign ? "grid active" : "grid"
                                     && this.state.onPhotography ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
-                                    <img src={news} alt="" className="img img-responsive"/>
+                                    <img src={news} alt='' className="img img-responsive"/>
                                     <div className="icon">
                                         <a href="https://juan-news-scraper.herokuapp.com/" target='#' className="view-icon">
                                             <h1>News Web Scraper</h1>
@@ -161,7 +161,7 @@ class Porfolio extends Component {
                                     && this.state.onPhotography ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
                                     
-                                    <img src={feelinglonely} alt="" className="img img-responsive"/>
+                                    <img src={feelinglonely} alt='' className="img img-responsive"/>
                                     <div className="icon">
                                         <a href="https://feeling-lonely-chat.herokuapp.com/" target='#' className="view-icon">
                                             <h1>Feeling Lonely Chat</h1>
@@ -173,7 +173,7 @@ class Porfolio extends Component {
                                     && this.state.onWebApp ? "grid active" : "grid"
                                     && this.state.onPhotography ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
-                                    <img src={kjtmovie} alt="" className="img img-responsive"/>
+                                    <img src={kjtmovie} alt='' className="img img-responsive"/>
                                     <div className="icon">
                                         <a href="https://dry-brook-68206.herokuapp.com/" target='#' className="view-icon">
                                             <h1>KJT Movie Spree</h1>

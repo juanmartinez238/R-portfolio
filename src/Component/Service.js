@@ -30,7 +30,7 @@ class Service extends Component {
                             <div className="hx-service-item">
                                 <div className="hx-service-single">
                                     <div className="service-img">
-                                        <img src={cLanguage}/>
+                                        <img src={cLanguage} alt=''/>
                                     </div>
                                     <div className="hx-service-content">
                                         <h3>C#</h3>
@@ -43,7 +43,7 @@ class Service extends Component {
                             <div className="hx-service-item">
                                 <div className="hx-service-single">
                                     <div className="service-img">
-                                        <img src={javascript2}/>
+                                        <img src={javascript2} alt=''/>
                                     </div>
                                     <div className="hx-service-content">
                                         <h3>JavaScript</h3>
@@ -56,7 +56,7 @@ class Service extends Component {
                             <div className="hx-service-item">
                                 <div className="hx-service-single">
                                     <div className="service-img">
-                                        <img src={html2}/>
+                                        <img src={html2} alt=''/>
                                     </div>
                                     <div className="hx-service-content">
                                         <h3>HTML</h3>
@@ -69,7 +69,7 @@ class Service extends Component {
                             <div className="hx-service-item">
                                 <div className="hx-service-single">
                                     <div className="service-img">
-                                        <img src={node2}/>
+                                        <img src={node2} alt=''/>
                                     </div>
                                     <div className="hx-service-content">
                                         <h3>Node.JS</h3>
@@ -82,7 +82,7 @@ class Service extends Component {
                             <div className="hx-service-item">
                                 <div className="hx-service-single">
                                     <div className="service-img">
-                                        <img src={reactNew2}/>
+                                        <img src={reactNew2} alt=''/>
                                     </div>
                                     <div className="hx-service-content">
                                         <h3>React.JS</h3>
@@ -95,7 +95,7 @@ class Service extends Component {
                             <div className="hx-service-item">
                                 <div className="hx-service-single">
                                     <div className="service-img">
-                                        <img src={vue2}/>
+                                        <img src={vue2} alt=''/>
                                     </div>
                                     <div className="hx-service-content">
                                         <h3>Vue.JS</h3>

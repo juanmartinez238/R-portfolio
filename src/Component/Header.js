@@ -36,7 +36,7 @@ class Header extends Component {
                                 <span className="icon-bar"></span>
                             </button>
                             <a className="navbar-brand" href="index.html">
-                                <img src={Logo} alt="" />
+                                <img src={Logo} alt=''/>
                             </a>
                         </div>
                         <div id="navbar" className={ this.state.isOpen ? "navbar-collapse navigation-holder active" : "navbar-collapse navigation-holder"}>
@@ -49,32 +49,32 @@ class Header extends Component {
                             <ul className="nav navbar-nav">
                                 <li className="home">
                                     <a href="#home">
-                                        <img src={portfoliohomePage2} alt=""/>
+                                        <img src={portfoliohomePage2} alt=''/>
                                     </a>
                                 </li>
                                 <li className="about">
                                     <a href="#about">
-                                        <img src={portfolioAboutMe2} alt=""/>
+                                        <img src={portfolioAboutMe2} alt=''/>
                                     </a>
                                 </li>
                                 <li className="service">
                                     <a href="#service">
-                                        <img src={portfolioTechnologies} alt=""/>
+                                        <img src={portfolioTechnologies} alt=''/>
                                     </a>
                                 </li>
                                 <li className="protfolio">
                                     <a href="#protfolio">
-                                        <img src={portfolioProjects} alt=""/>
+                                        <img src={portfolioProjects} alt=''/>
                                     </a>
                                 </li>
                                 <li className="contact">
                                     <a href="#contact">
-                                        <img src={portfolioContact} alt=""/>
+                                        <img src={portfolioContact} alt=''/>
                                     </a>
                                 </li>
                                 <li className="home">
                                     <a href="#home">
-                                        <img src={portfoliohomePage2} alt=""/>
+                                        <img src={portfoliohomePage2} alt=''/>
                                     </a>
                                 </li>
                             </ul>

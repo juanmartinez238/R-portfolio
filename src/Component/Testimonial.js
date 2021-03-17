@@ -56,7 +56,7 @@ class Testimonial extends Component {
                                 </div>
                                 <div className="testimonial-sub">
                                     <div className="testimonial-img">
-                                        <img src={testimonialImg_1}/>
+                                        <img src={testimonialImg_1} alt=''/>
                                     </div>
                                     <div className="testimonial-tumb-content">
                                         <h4>Jenelia Watson</h4>
@@ -72,7 +72,7 @@ class Testimonial extends Component {
                                 </div>
                                 <div className="testimonial-sub">
                                     <div className="testimonial-img">
-                                        <img src={testimonialImg_2}/>
+                                        <img src={testimonialImg_2} alt=''/>
                                     </div>
                                     <div className="testimonial-tumb-content">
                                         <h4>John Doe</h4>
@@ -88,7 +88,7 @@ class Testimonial extends Component {
                                 </div>
                                 <div className="testimonial-sub">
                                     <div className="testimonial-img">
-                                        <img src={testimonialImg_1}/>
+                                        <img src={testimonialImg_1} alt=''/>
                                     </div>
                                     <div className="testimonial-tumb-content">
                                         <h4>Jenelia Watson</h4>
@@ -104,7 +104,7 @@ class Testimonial extends Component {
                                 </div>
                                 <div className="testimonial-sub">
                                     <div className="testimonial-img">
-                                        <img src={testimonialImg_2}/>
+                                        <img src={testimonialImg_2} alt=''/>
                                     </div>
                                     <div className="testimonial-tumb-content">
                                         <h4>John Doe</h4>
