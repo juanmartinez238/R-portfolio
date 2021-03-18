@@ -17,6 +17,7 @@
     "imagesloaded": "^4.1.4",
     "isotope-layout": "^3.0.6",
     "jquery": "^3.4.1",
+    "netlify-cli": "^3.13.1",
     "primeicons": "^2.0.0",
     "primereact": "^4.1.2",
     "prop-types": "^15.7.2",
